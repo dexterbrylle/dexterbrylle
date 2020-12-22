@@ -1,4 +1,8 @@
-### Hi there 👋
+### YO! 👋
+
+#### ⚡ Fun fact:
+- Super caffeine-dependent
+
 
 <!--
 **dexterbrylle/dexterbrylle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
