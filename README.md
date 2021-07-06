@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dexterbrylle&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexterbrylle" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexterbrylle&layout=compact" />
 </a>
 
 
@@ -24,10 +24,6 @@
 <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/vim/vim.png" />
-
-#### ⚡ Fun fact:
-- Super caffeine-dependent
-
 
 <!--
 **dexterbrylle/dexterbrylle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
